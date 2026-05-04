@@ -1,6 +1,6 @@
-package net.celsiusqc.ad_astra_rocketed.client.renderers.entities;
+package net.astr0.ad_astro.client.renderers.entities;
 
-import net.celsiusqc.ad_astra_rocketed.common.tags.AdAstraRocketed;
+import net.astr0.ad_astro.common.tags.AdAstraRocketed;
 import net.minecraft.resources.ResourceLocation;
 
 public class AdAstraRocketedRenderer {

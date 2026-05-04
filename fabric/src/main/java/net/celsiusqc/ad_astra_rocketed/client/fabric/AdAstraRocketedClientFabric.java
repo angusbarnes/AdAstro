@@ -1,6 +1,6 @@
 package net.celsiusqc.ad_astra_rocketed.client.fabric;
 
-import net.celsiusqc.ad_astra_rocketed.client.AdAstraRocketedClient;
+import net.astr0.ad_astro.client.AdAstraRocketedClient;
 import net.fabricmc.fabric.api.client.rendering.v1.BuiltinItemRendererRegistry;
 import net.fabricmc.fabric.api.client.rendering.v1.EntityModelLayerRegistry;
 

@@ -1,7 +1,7 @@
-package net.celsiusqc.ad_astra_rocketed.client.models.entities;
+package net.astr0.ad_astro.client.models.entities;
 
-import net.celsiusqc.ad_astra_rocketed.common.tags.AdAstraRocketed;
-import net.celsiusqc.ad_astra_rocketed.common.entities.RocketedRocket;
+import net.astr0.ad_astro.common.entities.RocketedRocket;
+import net.astr0.ad_astro.common.tags.AdAstraRocketed;
 import earth.terrarium.adastra.client.ClientPlatformUtils;
 import earth.terrarium.adastra.client.models.entities.vehicles.RocketModel;
 import net.minecraft.client.model.geom.ModelLayerLocation;

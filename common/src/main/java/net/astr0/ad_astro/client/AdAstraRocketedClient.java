@@ -1,9 +1,9 @@
-package net.celsiusqc.ad_astra_rocketed.client;
+package net.astr0.ad_astro.client;
 
-import net.celsiusqc.ad_astra_rocketed.client.models.entities.RocketedRocketModel;
-import net.celsiusqc.ad_astra_rocketed.client.renderers.entities.AdAstraRocketedRenderer;
-import net.celsiusqc.ad_astra_rocketed.common.registry.ModEntityTypes;
-import net.celsiusqc.ad_astra_rocketed.common.registry.ModItems;
+import net.astr0.ad_astro.common.registry.ModEntityTypes;
+import net.astr0.ad_astro.client.models.entities.RocketedRocketModel;
+import net.astr0.ad_astro.client.renderers.entities.AdAstraRocketedRenderer;
+import net.astr0.ad_astro.common.registry.ModItems;
 import earth.terrarium.adastra.client.ClientPlatformUtils;
 import earth.terrarium.adastra.client.renderers.entities.vehicles.RocketRenderer;
 import earth.terrarium.botarium.client.ClientHooks;

@@ -1,8 +1,8 @@
-package net.celsiusqc.ad_astra_rocketed.common.entities;
+package net.astr0.ad_astro.common.entities;
 
-import net.celsiusqc.ad_astra_rocketed.common.registry.ModEntityTypes;
-import net.celsiusqc.ad_astra_rocketed.common.registry.ModFluidTags;
-import net.celsiusqc.ad_astra_rocketed.common.registry.ModItems;
+import net.astr0.ad_astro.common.registry.ModEntityTypes;
+import net.astr0.ad_astro.common.registry.ModFluidTags;
+import net.astr0.ad_astro.common.registry.ModItems;
 import earth.terrarium.adastra.common.entities.vehicles.Rocket;
 import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.level.Level;

@@ -1,6 +1,6 @@
-package net.celsiusqc.ad_astra_rocketed.common.registry;
+package net.astr0.ad_astro.common.registry;
 
-import net.celsiusqc.ad_astra_rocketed.common.tags.AdAstraRocketed;
+import net.astr0.ad_astro.common.tags.AdAstraRocketed;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.tags.TagKey;

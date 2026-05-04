@@ -1,6 +1,6 @@
-package net.celsiusqc.ad_astra_rocketed.common.registry;
+package net.astr0.ad_astro.common.registry;
 
-import net.celsiusqc.ad_astra_rocketed.common.tags.AdAstraRocketed;
+import net.astr0.ad_astro.common.tags.AdAstraRocketed;
 import com.teamresourceful.resourcefullib.common.registry.RegistryEntry;
 import com.teamresourceful.resourcefullib.common.registry.ResourcefulRegistries;
 import com.teamresourceful.resourcefullib.common.registry.ResourcefulRegistry;

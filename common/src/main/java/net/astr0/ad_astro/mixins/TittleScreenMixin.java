@@ -1,4 +1,4 @@
-package net.celsiusqc.ad_astra_rocketed.mixins;
+package net.astr0.ad_astro.mixins;
 
 import net.minecraft.client.gui.screens.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;

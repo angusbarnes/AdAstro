@@ -1,14 +1,12 @@
-package net.celsiusqc.ad_astra_rocketed.common.registry;
+package net.astr0.ad_astro.common.registry;
 
-import net.celsiusqc.ad_astra_rocketed.common.tags.AdAstraRocketed;
+import net.astr0.ad_astro.common.tags.AdAstraRocketed;
 import com.teamresourceful.resourcefullib.common.item.tabs.ResourcefulCreativeTab;
 import earth.terrarium.adastra.common.registry.ModFluids;
 import earth.terrarium.adastra.common.utils.FluidUtils;
-import net.minecraft.network.chat.Component;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.item.Tier;
 
 import java.util.ArrayList;
 import java.util.List;

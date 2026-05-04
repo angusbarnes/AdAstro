@@ -1,8 +1,8 @@
-package net.celsiusqc.ad_astra_rocketed.common.tags;
+package net.astr0.ad_astro.common.tags;
 
-import net.celsiusqc.ad_astra_rocketed.common.registry.ModCreativeTab;
-import net.celsiusqc.ad_astra_rocketed.common.registry.ModEntityTypes;
-import net.celsiusqc.ad_astra_rocketed.common.registry.ModItems;
+import net.astr0.ad_astro.common.registry.ModCreativeTab;
+import net.astr0.ad_astro.common.registry.ModEntityTypes;
+import net.astr0.ad_astro.common.registry.ModItems;
 
 public class AdAstraRocketed {
     public static final String MOD_ID = "ad_astra_rocketed";

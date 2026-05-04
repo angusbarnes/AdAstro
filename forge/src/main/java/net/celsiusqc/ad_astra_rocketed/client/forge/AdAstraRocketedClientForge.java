@@ -1,6 +1,6 @@
 package net.celsiusqc.ad_astra_rocketed.client.forge;
 
-import net.celsiusqc.ad_astra_rocketed.client.AdAstraRocketedClient;
+import net.astr0.ad_astro.client.AdAstraRocketedClient;
 import earth.terrarium.adastra.client.forge.AdAstraClientForge;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.client.event.EntityRenderersEvent;
