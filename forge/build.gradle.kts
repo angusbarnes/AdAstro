@@ -4,8 +4,8 @@ architectury {
 
 loom {
     forge {
-        mixinConfig( "ad_astra_rocketed-common.mixins.json")
-        mixinConfig( "ad_astra_rocketed.mixins.json")
+        mixinConfig( "ad_astro-common.mixins.json")
+        mixinConfig( "ad_astro.mixins.json")
     }
 
     runs {

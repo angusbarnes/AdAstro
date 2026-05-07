@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "ad_astra_rocketed",
+  "id": "ad_astro",
   "version": "${version}",
   "name": "Ad Astra: Rocketed",
   "description": "A Simple Addon mod to add extra rocket tiers to Ad Astra",
@@ -16,16 +16,16 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.celsiusqc.ad_astra_rocketed.fabric.AdAstraRocketedFabric::init",
-      "net.celsiusqc.ad_astra_rocketed.common.tags.AdAstraRocketed::postInit"
+      "net.celsiusqc.ad_astro.fabric.AdAstraRocketedFabric::init",
+      "net.celsiusqc.ad_astro.common.tags.AdAstraRocketed::postInit"
     ],
     "client": [
-      "net.celsiusqc.ad_astra_rocketed.client.fabric.AdAstraRocketedClientFabric::init"
+      "net.celsiusqc.ad_astro.client.fabric.AdAstraRocketedClientFabric::init"
     ]
   },
   "mixins": [
-    "ad_astra_rocketed-common.mixins.json",
-    "ad_astra_rocketed.mixins.json"
+    "ad_astro-common.mixins.json",
+    "ad_astro.mixins.json"
   ],
   "depends": {
     "fabric-api": "*",

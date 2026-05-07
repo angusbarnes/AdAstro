@@ -1,6 +1,6 @@
 package net.astr0.ad_astro.client.models.entities;
 
-import net.astr0.ad_astro.common.entities.RocketedRocket;
+import net.astr0.ad_astro.common.entities.AdAstroRocket;
 import net.astr0.ad_astro.common.tags.AdAstraRocketed;
 import earth.terrarium.adastra.client.ClientPlatformUtils;
 import earth.terrarium.adastra.client.models.entities.vehicles.RocketModel;
@@ -10,7 +10,7 @@ import net.minecraft.client.model.geom.PartPose;
 import net.minecraft.client.model.geom.builders.*;
 import net.minecraft.resources.ResourceLocation;
 
-public class RocketedRocketModel<T extends RocketedRocket> extends RocketModel<T> {
+public class RocketedRocketModel<T extends AdAstroRocket> extends RocketModel<T> {
     public static final ModelLayerLocation TIER_5_LAYER = new ModelLayerLocation(new ResourceLocation(AdAstraRocketed.MOD_ID, "tier_5_rocket"), "main");
     public static final ModelLayerLocation TIER_6_LAYER = new ModelLayerLocation(new ResourceLocation(AdAstraRocketed.MOD_ID, "tier_6_rocket"), "main");
     public static final ModelLayerLocation TIER_7_LAYER = new ModelLayerLocation(new ResourceLocation(AdAstraRocketed.MOD_ID, "tier_7_rocket"), "main");

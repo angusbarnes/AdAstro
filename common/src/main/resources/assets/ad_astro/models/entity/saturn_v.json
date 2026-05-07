@@ -1,0 +1,8 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "ad_astro:models/entity/saturn_v.obj",
+  "textures": {
+    "saturn_v_main": "ad_astro:block/saturn_v"
+  }
+}

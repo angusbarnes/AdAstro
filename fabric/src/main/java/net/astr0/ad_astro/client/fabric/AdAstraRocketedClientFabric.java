@@ -1,4 +1,4 @@
-package net.celsiusqc.ad_astra_rocketed.client.fabric;
+package net.astr0.ad_astro.client.fabric;
 
 import net.astr0.ad_astro.client.AdAstraRocketedClient;
 import net.fabricmc.fabric.api.client.rendering.v1.BuiltinItemRendererRegistry;

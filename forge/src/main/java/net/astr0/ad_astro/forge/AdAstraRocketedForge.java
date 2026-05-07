@@ -1,7 +1,7 @@
-package net.celsiusqc.ad_astra_rocketed.forge;
+package net.astr0.ad_astro.forge;
 
 import net.astr0.ad_astro.common.tags.AdAstraRocketed;
-import net.celsiusqc.ad_astra_rocketed.client.forge.AdAstraRocketedClientForge;
+import net.astr0.ad_astro.client.forge.AdAstraRocketedClientForge;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.loading.FMLEnvironment;
 

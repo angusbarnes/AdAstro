@@ -1,4 +1,4 @@
-package net.celsiusqc.ad_astra_rocketed.fabric;
+package net.astr0.ad_astro.fabric;
 
 import net.astr0.ad_astro.common.tags.AdAstraRocketed;
 

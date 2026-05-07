@@ -1,0 +1,8 @@
+{
+  "sources": [
+    {
+      "type": "single",
+      "sprite": "ad_astro:entity/rocket/saturn_v"
+    }
+  ]
+}

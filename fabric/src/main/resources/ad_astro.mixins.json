@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "net.celsiusqc.ad_astra_rocketed.mixins.fabric",
+  "package": "net.celsiusqc.ad_astro.mixins.fabric",
   "compatibilityLevel": "JAVA_17",
   "minVersion": "0.8",
   "client": [

@@ -30,10 +30,10 @@
           "item": "cp_tweaks:weird_satellite"
         },
         "base": {
-          "item": "ad_astra_rocketed:tier_5_rocket"
+          "item": "ad_astro:tier_5_rocket"
         },
         "result": {
-          "item": "ad_astra_rocketed:tier_6_rocket"
+          "item": "ad_astro:tier_6_rocket"
         },
         "template": []
       }

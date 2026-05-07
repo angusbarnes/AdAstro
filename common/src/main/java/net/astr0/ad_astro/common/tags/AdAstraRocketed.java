@@ -5,7 +5,7 @@ import net.astr0.ad_astro.common.registry.ModEntityTypes;
 import net.astr0.ad_astro.common.registry.ModItems;
 
 public class AdAstraRocketed {
-    public static final String MOD_ID = "ad_astra_rocketed";
+    public static final String MOD_ID = "ad_astro";
 
     public static void init() {
         ModItems.ITEMS.init();

@@ -4,49 +4,50 @@ issueTrackerURL = "https://github.com/Frontiers-PackForge/Cosmic-Rocketry/issues
 license = "All rights reserved"
 
 [[mods]]
-modId = "ad_astra_rocketed"
+modId = "ad_astro"
 version = "${version}"
 displayName = "Ad Astra: Rocketed"
 authors = "celsiusqc"
 description = "A Simple Addon mod to add extra rocket tiers to Ad Astra"
 logoFile = ""
 
-[[dependencies.ad_astra_rocketed]]
+
+[[dependencies.ad_astro]]
 modId = "forge"
 mandatory = true
 versionRange = "[47,)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.ad_astra_rocketed]]
+[[dependencies.ad_astro]]
 modId = "minecraft"
 mandatory = true
 versionRange = "[1.20.1,)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.ad_astra_rocketed]]
+[[dependencies.ad_astro]]
 modId = "resourcefullib"
 mandatory = true
 versionRange = "[2.1.23,)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.ad_astra_rocketed]]
+[[dependencies.ad_astro]]
 modId = "resourcefulconfig"
 mandatory = true
 versionRange = "[2.1.0,)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.ad_astra_rocketed]]
+[[dependencies.ad_astro]]
 modId = "botarium"
 mandatory = true
 versionRange = "[2.3.0,)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.ad_astra_rocketed]]
+[[dependencies.ad_astro]]
 modId = "ad_astra"
 mandatory = true
 versionRange = "[1.15.18,)"

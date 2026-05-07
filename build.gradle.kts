@@ -141,7 +141,7 @@ subprojects {
                 configurations = listOf(shadowCommon)
 
                 exclude(".cache/**") // Remove data gen cache from jar
-                exclude("**/ad_astra_rocketed/datagen/**") // Remove data gen code from jar
+                exclude("**/ad_astro/datagen/**") // Remove data gen code from jar
             }
 
             "remapJar"(RemapJarTask::class) {
